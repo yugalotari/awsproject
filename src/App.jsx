@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <p>Hello AWS code</p>
+      <p>Hello AWS</p>
     </>
   )
 }
